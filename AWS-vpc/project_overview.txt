@@ -1,0 +1,11 @@
+Deployed Dynamic API on AWS EC2 with Docker Image & AWS CloudFront for Fast & Secure AccessDeployed Dynamic API on AWS EC2 with Docker Image & AWS CloudFront for Fast & Secure Access
+🚀 Deployed Dynamic API on AWS EC2 with Docker Image & AWS CloudFront for Fast & Secure Access.
+Successfully deployed a dynamic API on AWS EC2 instance by creating a Docker image, ensuring scalability, flexibility, and easy management. Implemented AWS CloudFront to optimize content delivery, ensuring lightning-fast response times globally while maintaining robust security protocols.
+
+Key Achievements:
+
+Utilized Docker to containerize the API, enhancing portability and simplifying deployment across different environments.
+Leveraged AWS EC2 for reliable hosting, ensuring high availability and scalability to meet varying demands.
+Integrated AWS CloudFront to deliver content with low latency, improving user experience and global accessibility.
+
+This project demonstrates expertise in AWS services, Docker containerization, and optimizing API performance for enhanced user experience and security.
